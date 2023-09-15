@@ -1,7 +1,7 @@
 # Petclinic-CI-CD-Project
 
 
-## 1. Create an Ubuntu EC2 instance in AWS account that will act as a Tomcat Server for the Java Application. 
+## 1. Create an Ubuntu EC2 instance in AWS account that will act as a Server for the Java Application. 
 
 <img width="960" alt="1" src="https://github.com/iamsouvik9/CI-CD-Petclinic-Project/assets/79768737/355b381a-43f4-4115-bbaf-bb7316f86e19">
 
@@ -20,7 +20,6 @@
 ## 3. Also install Jenkins server on the same EC2 instance and configure it to run on nport 8082 of the same instance as the TomCat Server.
 
 <img width="960" alt="3" src="https://github.com/iamsouvik9/CI-CD-Petclinic-Project/assets/79768737/b5a77d61-44dd-4dd0-983a-fc6162385476">
-
 
 
 ----------------------------------------------------------------------------
