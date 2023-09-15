@@ -1,1 +1,1 @@
-# CI-CD-Petclinic-Project
+# Petclinic-CI-CD-Project
