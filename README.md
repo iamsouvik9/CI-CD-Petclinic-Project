@@ -17,7 +17,7 @@
 
 ----------------------------------------------------------------------------
 
-## 3. Also install Jenkins server on the same EC2 instance and configure it to run on nport 8082 of the same instance as the TomCat Server.
+## 3. Also install Jenkins server on the same EC2 instance and configure it to run on port 8082 of the same instance as the TomCat Server.
 
 <img width="960" alt="3" src="https://github.com/iamsouvik9/CI-CD-Petclinic-Project/assets/79768737/b5a77d61-44dd-4dd0-983a-fc6162385476">
 
@@ -27,7 +27,8 @@
 ## 4. Install suggested plugins on the Jenkins server
 
 
-<img width="960" alt="4" src="https://github.com/iamsouvik9/CI-CD-PetclinicProject/assets/79768737/ed915802-9c26-48ef-bc79-1e740a65d7ef">
+<img width="960" alt="4" src="https://github.com/iamsouvik9/CI-CD-Petclinic-Project/assets/79768737/21c253e6-fd61-4fb6-9bc5-0748635fce57">
+
 
 
 ----------------------------------------------------------------------------
