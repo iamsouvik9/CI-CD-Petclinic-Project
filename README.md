@@ -6,7 +6,7 @@
 <img width="953" alt="overview" src="https://github.com/iamsouvik9/CI-CD-Petclinic-Project/assets/79768737/75a7704c-4044-4572-99a6-17e40838ce05">
 
 
-This is a complete END-to-END CI/CD pipeline project demonstrating how to deploy a Java Web application on a web server follwing the best practices of Devops and Cloud Computing. Use Jenkins as a CI/CD tool to create a declarative pipeline to clone the code from the GitHub in first stage, then send the code to SonarQube for quality testing and security analysis in the second stage and then if the code passes the qulaity checks Jenkins pipeline triggers the build tool Maven to create a Java app.war file, after the code build is successful then the pipeline will place the freshly created app.war file in the /opt/apache
+This is a complete END-to-END CI/CD pipeline project demonstrating how to deploy a Java Web application on a web server follwing the best practices of Devops and Cloud Computing. Use Jenkins as a CI/CD tool to create a declarative pipeline to clone the code from the GitHub in first stage, then send the code to SonarQube for quality testing and security analysis in the second stage and then if the code passes the qulaity checks Jenkins pipeline triggers the build tool Maven to create a Java petclinic.war file, after the code build is successful then the pipeline will place the freshly created app.war file in the /opt/apache-tomcat-9.0.65/webapps/ directory. And then if we hit the IP address of the EC2 instance we will be served with the Java web-app.
 
 
 ## 1. Create an Ubuntu EC2 instance in AWS account that will act as a Server for the Java Application. 
