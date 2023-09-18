@@ -1,6 +1,6 @@
 # Petclinic-CI-CD-Project
 
-#Project Architecture/ Overview
+## Project Architecture/ Overview
 
 
 <img width="953" alt="overview" src="https://github.com/iamsouvik9/CI-CD-Petclinic-Project/assets/79768737/75a7704c-4044-4572-99a6-17e40838ce05">
